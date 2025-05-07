@@ -116,3 +116,4 @@ To contribute to this collection, submit a pull request with the following detai
 - **Brief description**
 - **Difficulty level** (Beginner, Intermediate, Advanced)
 - **Category** (e.g., Web Application Security, Cryptography)
+
