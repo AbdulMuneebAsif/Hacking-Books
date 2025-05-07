@@ -1,4 +1,3 @@
-
 # Hacking Books Collection
 
 ## Table of Contents
@@ -12,6 +11,7 @@
 ## Introduction
 
 This is a collection of various hacking books, covering a wide range of topics from beginner to advanced levels. The books are categorized for easy navigation and include descriptions to help you find the perfect resource for your needs.
+Inpired from https://github.com/InspectorDidi/Hacking-Books/tree/master#
 
 ---
 
@@ -116,4 +116,3 @@ To contribute to this collection, submit a pull request with the following detai
 - **Brief description**
 - **Difficulty level** (Beginner, Intermediate, Advanced)
 - **Category** (e.g., Web Application Security, Cryptography)
-
